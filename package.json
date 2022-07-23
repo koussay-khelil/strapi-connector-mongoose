@@ -1,9 +1,11 @@
 {
-  "name": "strapi-connector-mongoose",
-  "version": "3.6.8",
-  "description": "Mongoose hook for the Strapi framework",
+  "name": "strapi-connector-mongodb-atlas",
+  "version": "3.6.9",
+  "description": "MongoDB Atlas hook for the Strapi framework. Forked from the original Strapi mongoose hook to make it work with MongoDB Atlas. USE WITH CAUTION!",
   "homepage": "https://strapi.io",
   "keywords": [
+    "mongodb",
+    "atlas",
     "mongoose",
     "hook",
     "orm",
@@ -38,10 +40,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/gak4u/strapi-connector-mongoose.git"
   },
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/gak4u/strapi-connector-mongoose/issues"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
