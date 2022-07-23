@@ -1,6 +1,6 @@
 {
   "name": "strapi-connector-mongodb-atlas",
-  "version": "3.6.9",
+  "version": "3.6.10",
   "description": "MongoDB Atlas hook for the Strapi framework. Forked from the original Strapi mongoose hook to make it work with MongoDB Atlas. USE WITH CAUTION!",
   "homepage": "https://strapi.io",
   "keywords": [
